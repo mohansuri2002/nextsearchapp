@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nextsearchapp/static/css/main.c528709b.css",
+    "main.js": "/nextsearchapp/static/js/main.7e8c85ed.js",
+    "index.html": "/nextsearchapp/index.html",
+    "main.c528709b.css.map": "/nextsearchapp/static/css/main.c528709b.css.map",
+    "main.7e8c85ed.js.map": "/nextsearchapp/static/js/main.7e8c85ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c528709b.css",
+    "static/js/main.7e8c85ed.js"
+  ]
+}
