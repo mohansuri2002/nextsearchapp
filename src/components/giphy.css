@@ -1,0 +1,23 @@
+.textbox{
+    display: block;
+    text-align: center;
+    
+}
+.input-field{
+    text-align: center;
+    margin: 0px;
+    width:500px;
+    height:30px;
+    text-decoration: none;
+}
+.submit-btn{
+    /* display: block; */
+    position: relative;
+    
+    text-align: center;
+    top:40px;
+    left:-300px;
+    width: 100px;
+    height: 30px;
+    border-radius: 8px;
+}
