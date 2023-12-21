@@ -1,6 +1,7 @@
 {
   "homepage": "https://mohansuri2002.github.io/Gifphy_app",
   "name": "chat",
+  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@giphy/js-fetch-api": "^5.2.0",
